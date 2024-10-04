@@ -1,10 +1,11 @@
 // const num = 10
 // const num2 = 20
+// const num3 = 3
 
 
 // if(num == num2){
 //     console.log('pass')
-// } else{
+// } else {
 //     console.log('not pass')
 // }
 
@@ -18,13 +19,13 @@
 
 // if(num > num2){
 //     console.log('pass')
-// } else {
+// } else{
 //     console.log('not pass')
 // }
 
 // if(num < num2){
 //     console.log('pass')
-// } else {
+// } else if (num3 < num2){
 //     console.log('not pass')
 // }
 
@@ -45,14 +46,14 @@
 
 // if(num >= num2){
 //     console.log('pass')
-// } else {
+// } else if(num2 >= num3) {
 //     console.log('not pass')
 // }
 
 
 // if(num <= num2){
 //     console.log('pass')
-// } else if(num2 = num) {
+// } else if (num2 = num) {
 //     console.log('not pass')
 // }
 
@@ -82,10 +83,10 @@
 // console.log(ternary)
 
 
-const condition1 = false;
-const condition2 = false;
-const condition3 = !false;
+// const condition1 = false;
+// const condition2 = false;
+// const condition3 = !false;
 
-const ternary = condition1 ? 'option1' : condition2 ? 'option2' : condition3 ? 'option3' : 'option4';
+// const ternary = condition1 ? 'option1' : condition2 ? 'option2' : condition3 ? 'option3' : 'option4';
 
-console.log(ternary)
+// console.log(ternary)
